@@ -63,11 +63,11 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Jira'da gözüken Ye�
 
 - Sprint Retrospective:
 
- Ürün hedefinin Kadınlar kapsamında kalması kararı alınmıştır.
- 3 günde bir daily scrum harici zoom üzerinden toplantı ve yapılması ve geri bildirim sıklığının arttırılması
- Fikir üretmeden önce alan araştırması yapılması gerektiğine karar verilmiştir.
- Takımın motivasyonunun arttırılması ve birbirine ısınması için oyun ve sohbet gecelerinin duzenlenmesi
- Bir sonraki sprint için fikir üzerinde business canvas çalışması yapılması, değer önerisinin netleştirilmesine karar verilmiştir.
+ - Ürün hedefinin Kadınlar kapsamında kalması kararı alınmıştır.
+ - 3 günde bir daily scrum harici zoom üzerinden toplantı ve yapılması ve geri bildirim sıklığının arttırılması
+ - Fikir üretmeden önce alan araştırması yapılması gerektiğine karar verilmiştir.
+ - Takımın motivasyonunun arttırılması ve birbirine ısınması için oyun ve sohbet gecelerinin duzenlenmesi
+ - Bir sonraki sprint için fikir üzerinde business canvas çalışması yapılması, değer önerisinin netleştirilmesine karar verilmiştir.
 
  
 
