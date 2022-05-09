@@ -57,6 +57,8 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Jira'da gözüken Ye�
 ### Ürün Durumu: Ekran görüntüleri:
  ![image](https://user-images.githubusercontent.com/104504113/167450130-30c8a5ae-58e1-44b1-9a6c-bc2d314f9d16.png)
  ![image](https://user-images.githubusercontent.com/104504113/167450161-b966d473-edc1-4d15-9da9-cb2cf8c00e71.png)
+ ![image](https://user-images.githubusercontent.com/104504113/167455986-530b854f-e930-4946-93eb-764cbd95d5b5.png)
+
  
  
 ### Sprint Review: Alınan kararlar: Veritabanı bağlantıları sağlandı, artık canlı bir veritabanımız var. Proje yüklendi. Bundan sonraki süreçte, tasarım ve işlevsellik geliştirilecek ve kullanıcı arayüzlerin yaratılacak.
