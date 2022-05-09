@@ -44,7 +44,7 @@ Backlog düzeni ve Story seçimleri: Backlog'umuz ilk yapılacak story'lere gör
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Jira'da gözüken Yeşil Itemlar yapılacak işleri gösterirken, yeşil itemlar storyleri temsil etmektedir.
 
 
-### - Daily Scrum: Daily Scrum toplantılarının kullanım kolaylığı ve erişim bakımından Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg Readme'de tarafımızdan paylaşılmaktadır:
+### Daily Scrum: Daily Scrum toplantılarının kullanım kolaylığı ve erişim bakımından Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg Readme'de tarafımızdan paylaşılmaktadır:
 
 
 ![image](https://user-images.githubusercontent.com/104504113/167447517-53ba0e48-1979-4129-b990-91d9e201ef54.png)
@@ -54,14 +54,14 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Jira'da gözüken Ye�
 ![image](https://user-images.githubusercontent.com/104504113/167449842-4ec9fc53-5516-4f22-ad00-d365eca56cf7.png)
 
 
-### -  Ürün Durumu: Ekran görüntüleri:
+### Ürün Durumu: Ekran görüntüleri:
  ![image](https://user-images.githubusercontent.com/104504113/167450130-30c8a5ae-58e1-44b1-9a6c-bc2d314f9d16.png)
  ![image](https://user-images.githubusercontent.com/104504113/167450161-b966d473-edc1-4d15-9da9-cb2cf8c00e71.png)
  
  
-### - Sprint Review: Alınan kararlar: Veritabanı bağlantıları sağlandı, artık canlı bir veritabanımız var. Proje yüklendi. Bundan sonraki süreçte, tasarım ve işlevsellik geliştirilecek ve kullanıcı arayüzlerin yaratılacak.
+### Sprint Review: Alınan kararlar: Veritabanı bağlantıları sağlandı, artık canlı bir veritabanımız var. Proje yüklendi. Bundan sonraki süreçte, tasarım ve işlevsellik geliştirilecek ve kullanıcı arayüzlerin yaratılacak.
 
-### - Sprint Retrospective:
+### Sprint Retrospective:
     - Ürün hedefinin Kadınlar kapsamında kalması kararı alınmıştır.
     - 3 günde bir daily scrum harici zoom üzerinden toplantı ve yapılması ve geri bildirim sıklığının arttırılması
     - Fikir üretmeden önce alan araştırması yapılması gerektiğine karar verilmiştir.
