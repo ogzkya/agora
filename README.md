@@ -45,6 +45,8 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Jira'da gözüken Ye�
 
 
 - Daily Scrum: Daily Scrum toplantılarının kullanım kolaylığı ve erişim bakımından Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg Readme'de tarafımızdan paylaşılmaktadır:
+
+
 ![image](https://user-images.githubusercontent.com/104504113/167447517-53ba0e48-1979-4129-b990-91d9e201ef54.png)
 ![image](https://user-images.githubusercontent.com/104504113/167447671-7b89070a-c610-4990-b4e5-86bf98275225.png) ![image](https://user-images.githubusercontent.com/104504113/167448698-1d038b6d-c9de-40c2-add0-8a77033f97d4.png) ![image](https://user-images.githubusercontent.com/104504113/167448880-6ce9d7b3-4052-4e06-9c67-4c38538ba5b5.png)
 - Sprint board update: ![image](https://user-images.githubusercontent.com/104504113/167449694-6a65657f-0492-44f3-8813-016d54217e7f.png)
