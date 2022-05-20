@@ -37,7 +37,7 @@ Boşanma sürecinde olan ve maddi olarak zor durumda olan kadınların hukuki de
 
 Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
 
-Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 280 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
 Backlog düzeni ve Story seçimleri: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
 
@@ -72,8 +72,48 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Jira'da gözüken Ye�
     - Fikir üretmeden önce alan araştırması yapılması gerektiğine karar verilmiştir.
     - Takımın motivasyonunun arttırılması ve birbirine ısınması için oyun ve sohbet gecelerinin duzenlenmesi
     - Bir sonraki sprint için fikir üzerinde business canvas çalışması yapılması, değer önerisinin netleştirilmesine karar verilmiştir.
-
  
+ 
+#Sprint 2
+
+ ## Sprint Notları: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+ 
+ ### Sprint içinde tamamlanması tahmin edilen puan: 80 Puan
+ 
+### Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 280 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprint'in 80 olması gerektiğine karar verildi.
+
+### Backlog düzeni ve Story seçimleri: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.Story'ler yapılacak işlere (task'lere) bölünmüştür. Jira'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+
+## Daily Scrum: 
+![image](https://user-images.githubusercontent.com/104504113/169610082-465b8405-47b1-48e3-b92f-c42fb0e24100.png)
+![image](https://user-images.githubusercontent.com/104504113/169610121-26115b02-fc2b-4df9-bfc8-5f0cbde0dea5.png)
+![image](https://user-images.githubusercontent.com/104504113/169610144-803aba69-7854-4f98-8c1a-f65235b0cc7b.png)
+
+## Sprint board update: 
+
+
+
+
+
+
+## Ürün Durumu Ekran Görüntüleri
+
+
+
+
+
+## Sprint Review: Alınan kararlar: Renk Paletine karar verildi. Logo tasarımı yapılmaya başlandı. Ürünün çalışmasında bir sorun görülmedi. Bussiness canvas çalışması yapıldı ve değer önerisi netleştirildi. Main fileslar push edilmeye başlandı.
+
+## Sprint Retrospective 
+
+- Kodlamaya diğer takım üyelerinin de katılması.
+- Tahmin puanında değişiklik yapılmalı.
+- Tasarım kısmına daha çok vakit ayırılmalı.
+- Renk paletinin daha canlı renklere sahip olması gerektiği kararı alınmıştır.
+
+
+
+
 
 
  
