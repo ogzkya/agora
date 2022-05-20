@@ -104,12 +104,12 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Jira'da gözüken Ye�
 
 ## Sprint Review: Alınan kararlar: Renk Paletine karar verildi. Logo tasarımı yapılmaya başlandı. Ürünün çalışmasında bir sorun görülmedi. Bussiness canvas çalışması yapıldı ve değer önerisi netleştirildi. Main fileslar push edilmeye başlandı.
 
-## Sprint Retrospective 
+### Sprint Retrospective 
 
-- Kodlamaya diğer takım üyelerinin de katılması.
-- Tahmin puanında değişiklik yapılmasına karar verilmiştir. (3 sprint için 380 yerine 280 puan.)
-- Tasarım kısmına daha çok vakit ayırılmalı.
-- Renk paletinin daha canlı renklere sahip olması gerektiği kararı alınmıştır.
+     - Kodlamaya diğer takım üyelerinin de katılması.
+     - Tahmin puanında değişiklik yapılmasına karar verilmiştir. (3 sprint için 380 yerine 280 puan.)
+     - Tasarım kısmına daha çok vakit ayırılmalı.
+     - Renk paletinin daha canlı renklere sahip olması gerektiği kararı alınmıştır.
 
 
 
