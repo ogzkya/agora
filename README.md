@@ -90,7 +90,9 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Jira'da gözüken Ye�
 ![image](https://user-images.githubusercontent.com/104504113/169610144-803aba69-7854-4f98-8c1a-f65235b0cc7b.png)
 
 ## Sprint board update: 
-![image](https://user-images.githubusercontent.com/104504113/169662696-1ae4b927-f490-412b-b162-24926865ed6c.png)
+![image](https://user-images.githubusercontent.com/104504113/169662738-d20b5d30-457b-4b31-8367-b6a25412dd4b.png)
+![image](https://user-images.githubusercontent.com/104504113/169662742-59757011-ad2c-4f0a-8583-9ca4e4b7a374.png)
+
 
 
 
