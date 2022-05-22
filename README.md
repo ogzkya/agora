@@ -99,7 +99,10 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Jira'da gözüken Ye�
 
 
 
-## Ürün Durumu Ekran Görüntüleri
+## Ürün Durumu Ekran Görüntüleri:
+
+![image](https://user-images.githubusercontent.com/104504113/169716465-ed2ec1f7-5ae5-4091-9b9a-ee062b9f0b85.png)
+![image](https://user-images.githubusercontent.com/104504113/169716467-421bdb98-786d-40c1-99ae-4b4e71aa105b.png)
 
 
 
