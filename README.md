@@ -143,7 +143,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Jira'da gözüken Ye�
 ![image](https://user-images.githubusercontent.com/104504113/172079157-ad5bcbdd-316a-4272-8325-dc7e9434d8eb.png)
 ![image](https://user-images.githubusercontent.com/104504113/172079165-8de0275e-5995-4103-b8c1-15969c61bf17.png)
 
-## Sprint Review: Alınan kararlar: İlk 14 takımın açıklanmasından sonraki jüri pitch sunumu dönemine hazırlık yapılması.
+## Sprint Review: 
 
 ### Logo tasarımı ve forum giriş ekranı tasarımları tamamlandı. Ürün kullanma isteği çalışma raporu hazırlandı. Pazar araştırması yapıldı. Olası sponsorluklarla görüşmeler yapıldı. Pazar/paydaş/sponsorluk raporu hazırlandı. Kurum, kuruluş ve kişilerden destek olabilecekleri süreçler için olası işbirliği sözleri alındı. Sponsorluk, hibe ve sosyal girişimcilik alanlarındaki süreçler ile ilgili deneyimve bilgi aktarımı alındı. 
 Bahsi geçen raporlar: 
@@ -159,7 +159,7 @@ Bahsi geçen raporlar:
      - Boşanmış ve boşanma sürecinde olan kadınlarla görüşme yapılması ve görüş, fikir alınması
      - Alanda çalışan sivil toplum kuruluşları ile görüşme yapılması ve toplanan bilgilerle rapor oluşturulması
      - Uygulamanın bootcamp dışında da hayata geçirilmesine karar verildi.
-   
+     - İlk 14 takımın açıklanmasından sonraki jüri pitch sunumu dönemine hazırlık yapılması.
    
    İlerleyen süreç için alınan kararlar:
    
