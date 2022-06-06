@@ -116,15 +116,60 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Jira'da gözüken Ye�
      - Tahmin puanında değişiklik yapılmasına karar verilmiştir. (3 sprint için 380 yerine 280 puan.)
      - Tasarım kısmına daha çok vakit ayırılmalı.
      - Renk paletinin daha canlı renklere sahip olması gerektiği kararı alınmıştır.
+     
+#Sprint 3
 
-
-
-
-
-
+## Sprint Notları: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
  
+### Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
 
+### Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 280 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprint'in 80 olması gerektiğine karar verildi.
 
+### Backlog düzeni ve Story seçimleri: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.Story'ler yapılacak işlere (task'lere) bölünmüştür. Jira'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+
+### Daily Scrum:
+![image](https://user-images.githubusercontent.com/104504113/172078621-a89ab4a4-fc63-4cca-9057-d05ac94a7883.png)
+![image](https://user-images.githubusercontent.com/104504113/172078798-c927c444-0222-4790-a56b-c66f57bb58a3.png)
+
+## Sprint board update: 
+![image](https://user-images.githubusercontent.com/104504113/172078994-d1c4b670-b299-423f-bcba-8cc3952ded8a.png)
+![image](https://user-images.githubusercontent.com/104504113/172079011-4392c1aa-c557-4e6d-a027-48d6adba5b24.png)
+![image](https://user-images.githubusercontent.com/104504113/172079018-95906412-bd49-4bd2-bc40-572ae492a112.png)
+![image](https://user-images.githubusercontent.com/104504113/172079097-f0049403-2a90-486b-9ad6-cb7ea7abefa2.png)
+![image](https://user-images.githubusercontent.com/104504113/172079032-7d85f744-20bb-4b57-90b5-80c10a1f5a02.png)
+
+## Ürün Durumu Ekran Görüntüleri:
+![image](https://user-images.githubusercontent.com/104504113/172079157-ad5bcbdd-316a-4272-8325-dc7e9434d8eb.png)
+![image](https://user-images.githubusercontent.com/104504113/172079165-8de0275e-5995-4103-b8c1-15969c61bf17.png)
+
+## Sprint Review: Alınan kararlar: İlk 14 takımın açıklanmasından sonraki jüri pitch sunumu dönemine hazırlık yapılması.
+Logo tasarımı ve forum giriş ekranı tasarımları tamamlandı. Ürün kullanma isteği çalışma raporu hazırlandı. Pazar araştırması yapıldı. Olası sponsorluklarla görüşmeler yapıldı. Pazar/paydaş/sponsorluk raporu hazırlandı. Kurum, kuruluş ve kişilerden destek olabilecekleri süreçler için olası işbirliği sözleri alındı. Sponsorluk, hibe ve sosyal girişimcilik alanlarındaki süreçler ile ilgili deneyimve bilgi aktarımı alındı. 
+Bahsi geçen raporlar: 
+
+[Ürün Kullanma İsteği Çalışma Raporu (3) (1).pdf](https://github.com/ogzkya/agora/files/8841227/Urun.Kullanma.Istegi.Calisma.Raporu.3.1.pdf)
+[Pazar_Paydaş_Sponsorluk Saha Bilgi Toplama Çalışması (2) (1).pdf](https://github.com/ogzkya/agora/files/8841228/Pazar_Paydas_Sponsorluk.Saha.Bilgi.Toplama.Calismasi.2.1.pdf)
+
+### Sprint Retrospective 
+
+     - Hazır çalışır bir uygulama haline geldikten sonra projeye flutter değerlendirme kriterlerine uygun çalışmalar ve eklenmeler yapılması.
+     - Sponsor bulma görüşmelerinin artttırılması
+     - Ürün kullanma isteği ve Pazar Paydaş Sponsorluk hakkında araştırma yapılması
+     - Boşanmış ve boşanma sürecinde olan kadınlarla görüşme yapılması ve görüş, fikir alınması
+     - Alanda çalışan sivil toplum kuruluşları ile görüşme yapılması ve toplanan bilgilerle rapor oluşturulması
+     - Uygulamanın bootcamp dışında da hayata geçirilmesine karar verildi.
+   
+   
+   İlerleyen süreç için alınan kararlar:
+   
+     - Sözleşilen işbirliği konularında çalışmalar yapılarak işbirliğinin genişletilmesi,
+     -Planlanan fiziksel görüşmelerin gerçekleştirilmesi,
+     -Alandaki diğer olası paydaşlarla (Baroların kadın komisyonları, Aile Bakanlığı
+      gibi devlet kurumları, ruh sağlığı alanında çalışan kuruluş ve dernekler, özel
+      kreş ve eğitim kurumları, melek yatırımcılar ve sosyal girişimler için hibe
+      desteği veren kurum, kuruluş ve kişiler) tanışma ve görüşmelerin devam
+      etmesi,
+    - Hibe çalışmalarına hız verilmesine,
+      karar verildi
 
 
 
