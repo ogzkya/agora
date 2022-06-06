@@ -136,7 +136,8 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Jira'da gözüken Ye�
 ![image](https://user-images.githubusercontent.com/104504113/172079011-4392c1aa-c557-4e6d-a027-48d6adba5b24.png)
 ![image](https://user-images.githubusercontent.com/104504113/172079018-95906412-bd49-4bd2-bc40-572ae492a112.png)
 ![image](https://user-images.githubusercontent.com/104504113/172079097-f0049403-2a90-486b-9ad6-cb7ea7abefa2.png)
-![image](https://user-images.githubusercontent.com/104504113/172079032-7d85f744-20bb-4b57-90b5-80c10a1f5a02.png)
+![image](https://user-images.githubusercontent.com/104504113/172080177-3ef2f821-b575-42a6-bae1-e298116291ae.png)
+
 
 ## Ürün Durumu Ekran Görüntüleri:
 ![image](https://user-images.githubusercontent.com/104504113/172079157-ad5bcbdd-316a-4272-8325-dc7e9434d8eb.png)
